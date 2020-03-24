@@ -39,15 +39,12 @@
 <img src="https://github.com/NewZaqueu/Lista-de-Tarefas/blob/master/img/img5.png">
 <hr><br>
 
-
-<br>
-<img src="https://github.com/NewZaqueu/Lista-de-Tarefas/blob/master/img/img6.png">
-<hr><br>
-
-
 <h3>Mobile:</h3>
 
+<br>
+<img src="https://github.com/NewZaqueu/Lista-de-Tarefas/blob/master/img/img7.PNG">
+<hr><br>
 
 <br>
-<img src="https://github.com/NewZaqueu/Lista-de-Tarefas/blob/master/img/img7.png">
+<img src="https://github.com/NewZaqueu/Lista-de-Tarefas/blob/master/img/img6.PNG">
 <hr><br>
